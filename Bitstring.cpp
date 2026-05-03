@@ -16,5 +16,5 @@ int main(){
             a=a-pow(10,9)-7;
         }
     }
-    cout << a;
+    cout << a << endl;
 }
